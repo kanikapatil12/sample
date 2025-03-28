@@ -1,0 +1,14 @@
+.nav1{
+    color: black;
+    background-color: rgb(211, 205, 205);
+    font-size: 14px;
+    padding: 25px 25px;
+    margin: 0 0 0 0px;
+    border-radius: 4px;
+}
+ul li{
+    display: inline;
+    font-size: 14px;
+    padding: 8px 15px;
+    margin: 10px;
+}
